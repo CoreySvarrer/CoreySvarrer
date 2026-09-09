@@ -1,4 +1,4 @@
-# Hi, I'm Corey👋IT Professional
+# Hi, I'm Corey👋An IT Professional
 
 ### IT Support | Systems Administration | Networking
 
