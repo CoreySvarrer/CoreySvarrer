@@ -6,17 +6,18 @@ I'm an IT professional building hands-on experience through realistic help desk,
 
 I am focused on **learning by doing** by creating Windows environments, troubleshooting simulated IT incidents, configuring Active Directory, managing permissions, and documenting the troubleshooting process from start to finish.
 
-https://github.com/CoreySvarrer/CS-Tech-Homelab
-<h2>Information Technology Projects<h2>
----
+
+ <h2><details><summary>📁My IT Projects</summary>
+  https://github.com/CoreySvarrer/CS-Tech-Homelab
+</details></h2>
 
 ## 📫 Connect With Me
 
-**GitHub:** [https://github.com/CoreySvarrer](https://github.com/CoreySvarrer)
+<details><summary>💬Send me a message</summary> 
 
 **LinkedIn:** [https://www.linkedin.com/in/corey-svarrer](https://www.linkedin.com/in/corey-svarrer)
 
 **Email:** [cjsvarrer@yahoo.com](mailto:cjsvarrer@yahoo.com)
+</details>
 
----
  *Thanks for visiting my portfolio!*
