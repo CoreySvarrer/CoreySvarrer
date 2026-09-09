@@ -6,7 +6,7 @@ I'm an IT professional building hands-on experience through realistic help desk,
 
 I am focused on **learning by doing** by creating Windows environments, troubleshooting simulated IT incidents, configuring Active Directory, managing permissions, and documenting the troubleshooting process from start to finish.
 
----
+https://github.com/CoreySvarrer/CS-Tech-Homelab
 <h2>Information Technology Projects<h2>
 ---
 
