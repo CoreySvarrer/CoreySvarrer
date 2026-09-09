@@ -7,12 +7,7 @@ I'm an IT professional building hands-on experience through realistic help desk,
 I am focused on **learning by doing** by creating Windows environments, troubleshooting simulated IT incidents, configuring Active Directory, managing permissions, and documenting the troubleshooting process from start to finish.
 
 ---
-
-
-# 🎯 Career Goal
-
-I'm currently working toward an **entry-level IT Support / Help Desk / Systems Support** position where I can apply my hands-on experience, continue developing my technical skills, and grow toward systems administration and cybersecurity.
-
+<h2>Information Technology Projects<h2>
 ---
 
 ## 📫 Connect With Me
