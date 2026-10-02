@@ -9,6 +9,7 @@ I am focused on **learning by doing** by creating Windows environments, troubles
 
  <h2><details><summary>📁My IT Projects</summary>
   https://github.com/CoreySvarrer/CS-Tech-Homelab
+  https://github.com/CoreySvarrer/HelpDesk-Lab-osTicket-VM
 </details></h2>
 
 ## 📫 Connect With Me
